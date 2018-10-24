@@ -4,7 +4,7 @@
  * Require:	jquery
  * Copyright:	2016, AiR&D Inc. (http://a-i-r-d.co.jp/)
  * Author:	Kyoji Osada
- * Licensed:	Under the Apache2.0 License
+ * Licensed:	Under the Apache License 2.0
  */
 
 //* Extension Plugin
